@@ -4,7 +4,7 @@ title: About
 ---
 
 <p align="center"> 
-<img src="/images/logo.jpg" style="width:400px;height:400px;">
+<img src="/images/logo.jpg" style="width:200px;height:200px;">
 </p>
 
 
