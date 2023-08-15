@@ -9,7 +9,7 @@ date: 12 August, 2023
 ---
 
 
-<img src="/images/hbd_sister.jpg" alt="brother wising his sister on birthday">
+<img src="/Wish/images/hbd_sister.jpg" alt="brother wising his sister on birthday">
 
 this is for you, birthday girl
 smile please
