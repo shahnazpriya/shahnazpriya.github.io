@@ -8,5 +8,5 @@ title: Timeline
 <br>
 
 <ul>
-	<li> <a href="/_posts/HBD_wish.md/" target="_blank">Date | Topic Title</a> </li>
+	<li> <a href="/Wish/HBD_wish.md/" target="_blank">Date | Topic Title</a> </li>
 </ul>
