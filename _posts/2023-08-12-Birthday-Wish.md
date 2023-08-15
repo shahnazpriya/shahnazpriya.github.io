@@ -8,7 +8,7 @@ categories: Wish
 location: DUET, Gazipur, Dhaka
 ---
 
-<img src="/images/posts_images/HBD_sister.hbd_sister.jpg" alt="brother wising his sister on birthday">
+<img src="/images/posts_images/hbd_sister.jpg" alt="brother wising his sister on birthday">
 <br><br>
 this is for you, birthday girl <br>
 smile please <br>
