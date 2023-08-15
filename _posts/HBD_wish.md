@@ -10,9 +10,9 @@ date: 12 August, 2023
 
 
 <img src="/_posts/images/hbd_sister.jpg" alt="brother wising his sister on birthday">
-
-this is for you, birthday girl
-smile please
-please, please, please....
-thank youuuuuu
+<br>
+this is for you, birthday girl <br>
+smile please <br>
+please, please, please.... <br>
+thank youuuuuu <br>
 amar boooooooon 🥰
