@@ -24,7 +24,7 @@ author:
   
 
 # Post related global variables
-defaultpostimage: /public/logo.png
+defaultpostimage: /images/logo.png
 
 # For a global message in the head
 message: 
