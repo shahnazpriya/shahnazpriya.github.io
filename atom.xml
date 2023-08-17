@@ -25,14 +25,4 @@ layout: null
  </entry>
  {% endfor %}
 
-  {% for work in site.works %}
- <entry>
-   <title>{{ work.title }}</title>
-   <link href="{{ site.url }}{{ work.url }}"/>
-   <updated>{{ work.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ work.id }}</id>
-   <content type="html">{{ work.content | xml_escape }}</content>
- </entry>
- {% endfor %}
-
 </feed>
