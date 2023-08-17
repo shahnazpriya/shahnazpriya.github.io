@@ -1,5 +1,5 @@
 ---
-layout: works
+layout: work
 title: Brother wishing his sis on her birthday
 description: 
 image:
