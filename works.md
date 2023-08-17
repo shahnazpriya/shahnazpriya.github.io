@@ -7,6 +7,8 @@ title: Works
 	<li> <a href="/Portfolios/project_1/" target="_blank">Project Name</a> </li>
 </ul>
 
+<a href="/wroks.html/" target="_blank"> works page </a>
+
 <!-- <h3>Pick a Category</h3> -->
 
 {% for category in site.categories %}
