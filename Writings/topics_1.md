@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Topic Title
+title: Topic Name
 description: 
-image: /images/
+image: 
 comments: false
-location: DUET, Bangladesh
-date: 
+location: DUET, Gazipur, Dhaka
+date: 12-08-2023
 ---
 
-page body starts from here....
+<br><br>
+Page body starts from here...
