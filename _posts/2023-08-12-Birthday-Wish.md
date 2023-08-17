@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A brother wishing his sis on her birthday
-description: Learn vim in a weekend
+description: 
 image:
 comments: false
 categories: Wish
