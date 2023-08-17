@@ -1,11 +1,17 @@
 ---
 layout: post
-title: Project Title
-description: project description in brief
-image: /images/
+title: A brother wishing his sis on her birthday
+description: Learn vim in a weekend
+image:
 comments: false
-location: DUET, Bangladesh
-date: 
+categories: Wishing
+location: DUET, Gazipur, Dhaka
 ---
 
-page body starts from here....
+<img src="/images/posts_images/hbd_sister.jpg" alt="brother wising his sister on birthday">
+<br><br>
+this is for you, birthday girl <br>
+smile please <br>
+please, please, please.... <br>
+thank youuuuuu <br>
+amar boooooooon 🥰
