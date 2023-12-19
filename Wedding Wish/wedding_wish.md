@@ -9,5 +9,5 @@ date: 18 December, 2023
 ---
 
 
-<img src="/Wedding Wish/images/wedding_wish.png" alt="brother wising his sister on her wedding">
+<img src="/Wedding Wish/posts_images/wedding_wish.png" alt="brother wising his sister on her wedding">
 
